@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-data/
 clean_news_dataset_v2.csv
+news_dataset.csv
 
 # Distribution / packaging
 .Python
