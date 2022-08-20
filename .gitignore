@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+vocab.pkl
+trainedModel.pth
 clean_news_dataset_v2.csv
 news_dataset.csv
 
